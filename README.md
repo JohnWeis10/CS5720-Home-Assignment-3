@@ -12,7 +12,7 @@ Student Number: 700708245
 
 Assignment Overview
 
-This repository contains the implementation for Home Assignment 3 of CS5720. The assignment explores deeper applications of Recurrent Neural Networks (RNNs), text sentiment analysis, and optimizer performance comparisons using TensorFlow and Keras. The tasks emphasize sequential modeling, text generation, and evaluating optimization strategies in deep learning.
+This repository contains the implementation for Home Assignment 3 of CS5720. The assignment explores deeper applications of Recurrent Neural Networks (RNNs), text sentiment analysis, and optimizer performance comparisons using TensorFlow. The tasks emphasize sequential modeling, text generation, and evaluating optimization strategies in deep learning.
 
 ## Tasks and Descriptions
 
@@ -51,6 +51,7 @@ This repository contains the implementation for Home Assignment 3 of CS5720. The
 - Plot training loss curves for comparison.
 
 - Analyze convergence speed and final accuracy of each optimizer.
+
 
 ## How to Run
 # Create and activate virtual environment (optional)
